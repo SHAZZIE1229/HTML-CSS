@@ -1,0 +1,51 @@
+.color-example {
+    /* Text color set to purple (your favorite color) */
+    color: purple;
+
+    /* Background color set to a contrasting color using a hexadecimal code (e.g., light yellow) */
+    background-color: #0afa3e;
+
+    /* Adding a border with a specified color and thickness */
+    border: 2px solid #4B0082; /* Border color: Indigo */
+}
+
+.header-example {
+    /* Font size set to 36px */
+    font-size: 36px;
+
+    /* Font family set to Arial, or fallback to sans-serif */
+    font-family: Arial, sans-serif;
+
+    /* Text color set to dark blue */
+    color: darkblue;
+}
+
+.list-example {
+    /* Change bullet point style to a square */
+    list-style-type: square;
+
+    /* Change text color of the list items */
+    color: darkgreen;
+}
+
+.text-example {
+    /* Change font family to Georgia */
+    font-family: Georgia, serif;
+
+    /* Increase font size to make the text larger */
+    font-size: 24px;
+
+    /* Capitalize the text */
+    text-transform: capitalize;
+
+    /* Underline the text */
+    text-decoration: underline;
+}
+
+.div-example {
+    /* Set a background color for the div */
+    background-color: #f0f8ff; /* Alice blue */
+
+    /* Add a border with a color and thickness */
+    border: 3px solid #4682b4; /* Steel blue */
+}
